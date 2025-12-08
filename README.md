@@ -1,5 +1,3 @@
-# Sillyhatday Fork
-
 ## Thanks to NatalieTheNerd for sharing this project with everyone.
 
 I have been wanting to build Natalie's LoCo for sometime. I got a bunch of donor parts, with on being CPU E revision. If you know about Gameboys, you'll know that CPU E is not compatible with all previous revisions. This project simpley changes the design so an E revision CPU can be used instead.
@@ -27,7 +25,8 @@ I also occasionally sell pre built PCBs on my store.
 
 ## Building
 
-![locoboardview](https://github.com/user-attachments/assets/ce1d8e81-c134-4052-a94a-4033333eb81e)
+
+<img width="814" height="670" alt="LoCoCPUE-Front BackSmol" src="https://github.com/user-attachments/assets/79155387-85b9-4890-bcfd-6602ff501d54" />
 
 
 > [!WARNING]
