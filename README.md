@@ -1,6 +1,6 @@
 ## Thanks to NatalieTheNerd for sharing this project with everyone.
 
-I have been wanting to build Natalie's LoCo for sometime. I got a bunch of donor parts, with on being CPU E revision. If you know about Gameboys, you'll know that CPU E is not compatible with all previous revisions. This project simpley changes the design so an E revision CPU can be used instead.
+I have been wanting to build Natalie's LoCo for sometime. I got a bunch of donor parts, with one Gameboy being a CPU E revision. If you know about Gameboys, you'll know that CPU E is not compatible with all previous revisions. This project simpley changes the design so an E revision CPU can be used instead.
 
 Below is the untouched readme from Natalie's project. I may update the photos when I get my own version build in a few weeks.
 
