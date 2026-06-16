@@ -1,3 +1,15 @@
+# LoCo CPU-E Fork
+
+This is my fork of the LoCo for a CPU E or CGB-CPU-06 revision Gameboy Color. I have built a working version of this now to prove that it works.
+
+I've updated this fork inline with Nat's by stealing the new CPU footprint.
+
+The final revision CGB was cost cut as much as possible, Nintendo removed as much as they could from the console. All the footprints for the filtering removed by Nintendo have been removed from this also. If those were left unpopulated, there is issues with sound and the serial port.
+
+I have not used the original 2.5v regulator for the CPU. It has an unusual footprint, so risk of damaging and finding a replacment is not a thing. 
+
+You will need to buy a new 2.5v regulator, some filtering capacitors and the new toggle switch wheel.
+
 ## Thanks to NatalieTheNerd for sharing this project with everyone.
 
 I have been wanting to build Natalie's LoCo for sometime. I got a bunch of donor parts, with one Gameboy being a CPU E revision. If you know about Gameboys, you'll know that CPU E is not compatible with all previous revisions. This project simpley changes the design so an E revision CPU can be used instead.
