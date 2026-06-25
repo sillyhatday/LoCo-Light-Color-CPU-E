@@ -1,20 +1,16 @@
-# LoCo CPU-E Fork
+# LoCo CPU-E
 
-This is my fork of the LoCo for a CPU E or CGB-CPU-06 revision Gameboy Color. I have built a working version of this now to prove that it works.
+As you may know, there are different revision CPUs that came in the GBC. All are compatible with each other except the last revision. This project allows for the use of that version inside of a Gameboy Light form factor.
 
-I've updated this fork inline with Nat's by stealing the new CPU footprint.
+The final revision CGB was cost cut as much as possible, Nintendo removed as much as they could from the console. All filtering removed by Nintendo has been removed from this also.
 
-The final revision CGB was cost cut as much as possible, Nintendo removed as much as they could from the console. All the footprints for the filtering removed by Nintendo have been removed from this also. If those were left unpopulated, there is issues with sound and the serial port.
+>[!IMPORTANT]
+>This version only works with CGB-CPU-06 revisions, known as CPU-E
 
-I have not used the original 2.5v regulator for the CPU. It has an unusual footprint, so risk of damaging and finding a replacment is not a thing. 
+>[!NOTE]
+>Limited new parts are needed, the 2.5v regulator and toggle wheel. The original donor a regulator. I could have used that, it just has an odd pin out. Such a small part is easy to loose or damage, so I went with a new part with a standard pin out. The toggle wheel is part of the original build by Natalie. Everything else is the same as the original version.
 
-You will need to buy a new 2.5v regulator, some filtering capacitors and the new toggle switch wheel.
-
-## Thanks to NatalieTheNerd for sharing this project with everyone.
-
-I have been wanting to build Natalie's LoCo for sometime. I got a bunch of donor parts, with one Gameboy being a CPU E revision. If you know about Gameboys, you'll know that CPU E is not compatible with all previous revisions. This project simpley changes the design so an E revision CPU can be used instead.
-
-Below is the untouched readme from Natalie's project. I may update the photos when I get my own version build in a few weeks.
+Here is Natalie's readme to take over.
 
 # LoCo (Light Color)
 
