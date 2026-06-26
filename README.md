@@ -1,8 +1,10 @@
-# LoCo CPU-E
+# Introduction
 
 As you may know, there are different revision CPUs that came in the GBC. All are compatible with each other except the last revision. This project allows for the use of that version inside of a Gameboy Light form factor.
 
 The final revision CGB was cost cut as much as possible, Nintendo removed as much as they could from the console. All filtering removed by Nintendo has been removed from this also.
+
+There is a bit of shell trimming required when assembling. The front face of the shell requires trimming for the screen like all IPS screen replacements. There is some trimming needed around the click wheel also as it's bigger than the orginal contrast wheel on a Light console. I'll document this when I have completed the build.
 
 >[!IMPORTANT]
 >This version only works with CGB-CPU-06 revisions, known as CPU-E
@@ -12,13 +14,11 @@ The final revision CGB was cost cut as much as possible, Nintendo removed as muc
 
 Here is Natalie's readme to take over.
 
-# LoCo (Light Color)
+# LoCo (Light Color) - NatalieTheNerd
 
 ![IMG_1983](https://github.com/user-attachments/assets/9faaedc1-d655-42ee-9860-178dbd0cd025)
 
 ![IMG_1987](https://github.com/user-attachments/assets/816c099c-9e4c-4ce2-ab68-2979363c1493)
-
-
 
 LoCo = Light Color. This project allows you to put a Game Boy Color in a Game Boy Light shell. Full Light colour PCB using the original parts. This board is made with modern screen kits in mind meaning it does not have the voltage rails for the original screen.
 
