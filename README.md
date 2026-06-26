@@ -10,7 +10,7 @@ There is a bit of shell trimming required when assembling. The front face of the
 >This version only works with CGB-CPU-06 revisions, known as CPU-E
 
 >[!NOTE]
->Limited new parts are needed, the 2.5v regulator and toggle wheel. The original donor a regulator. I could have used that, it just has an odd pin out. Such a small part is easy to loose or damage, so I went with a new part with a standard pin out. The toggle wheel is part of the original build by Natalie. Everything else is the same as the original version.
+>Limited new parts are needed, the 2.5v regulator and toggle wheel. I could have used the regulator from the donor, it just has an odd pin out. Such a small part is easy to loose or damage, so I went with a new part with a standard pin out. Everything else is the same as the original version.
 
 Here is Natalie's readme to take over.
 
