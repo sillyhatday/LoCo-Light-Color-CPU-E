@@ -39,7 +39,7 @@ I also occasionally sell pre built PCBs on my store.
 > I am not responsible for your skill issues!
 
 >[!TIP]
->Some details that will need your atention during assembly are [here]()
+>Some details that will need your atention during assembly are [here](SHELLTRIMMING.md)
 
 This board uses all the parts of an original Game Boy Color minus the IR and original screen circuit. Most parts are in the same spot, however if you are having trouble you can check the [interactive BOM](https://nataliethenerd.github.io/loco.html)
 
