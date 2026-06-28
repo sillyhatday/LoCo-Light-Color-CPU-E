@@ -12,13 +12,13 @@ There is a bit of shell trimming required when assembling. The front face of the
 >[!NOTE]
 >Limited new parts are needed, the 2.5v regulator and toggle wheel. I could have used the regulator from the donor, it just has an odd pin out. Such a small part is easy to loose or damage, so I went with a new part with a standard pin out. Everything else is the same as the original version.
 
-Here is Natalie's readme to take over.
+Here is Natalie's origiinal readme with my images.
 
 # LoCo (Light Color) - NatalieTheNerd
 
-![IMG_1983](https://github.com/user-attachments/assets/9faaedc1-d655-42ee-9860-178dbd0cd025)
+<img width="800" height="882" alt="LoCo-CPU-E-Front" src="https://github.com/user-attachments/assets/4b076943-91e7-489e-ab96-1a1c097023ba" />
 
-![IMG_1987](https://github.com/user-attachments/assets/816c099c-9e4c-4ce2-ab68-2979363c1493)
+<img width="800" height="707" alt="LoCo-CPU-E-Femboys" src="https://github.com/user-attachments/assets/5593ef39-cc0a-4821-9527-3dbc686d9d82" />
 
 LoCo = Light Color. This project allows you to put a Game Boy Color in a Game Boy Light shell. Full Light colour PCB using the original parts. This board is made with modern screen kits in mind meaning it does not have the voltage rails for the original screen.
 
@@ -33,12 +33,13 @@ I also occasionally sell pre built PCBs on my store.
 
 ## Building
 
-
-<img width="814" height="670" alt="LoCoCPUE-Front BackSmol" src="https://github.com/user-attachments/assets/79155387-85b9-4890-bcfd-6602ff501d54" />
-
+<img width="800" height="657" alt="LoCo-PCB-Front-Back" src="https://github.com/user-attachments/assets/3fe210ea-8ed1-4659-bc39-7788c332b5ec" />
 
 > [!WARNING]
 > I am not responsible for your skill issues!
+
+>[!TIP]
+>Some details that will need your atention during assembly are [here]()
 
 This board uses all the parts of an original Game Boy Color minus the IR and original screen circuit. Most parts are in the same spot, however if you are having trouble you can check the [interactive BOM](https://nataliethenerd.github.io/loco.html)
 
