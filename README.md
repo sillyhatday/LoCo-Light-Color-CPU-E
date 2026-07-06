@@ -20,6 +20,12 @@ Here is Natalie's origiinal readme with my images.
 
 <img width="800" height="707" alt="LoCo-CPU-E-Femboys" src="https://github.com/user-attachments/assets/5593ef39-cc0a-4821-9527-3dbc686d9d82" />
 
+<img width="800" height="536" alt="IMG_8563_01" src="https://github.com/user-attachments/assets/c7722e31-fccf-43ae-8e85-1fd10602c7a1" />
+
+<img width="800" height="533" alt="IMG_6105" src="https://github.com/user-attachments/assets/fe448f6e-6c7e-4d38-b3b8-666bc4947d7a" />
+
+<img width="800" height="533" alt="IMG_6108" src="https://github.com/user-attachments/assets/f4fc8eca-b826-4528-a689-360732280996" />
+
 LoCo = Light Color. This project allows you to put a Game Boy Color in a Game Boy Light shell. Full Light colour PCB using the original parts. This board is made with modern screen kits in mind meaning it does not have the voltage rails for the original screen.
 
 **ORDER AT 1MM WITH ENIG**
