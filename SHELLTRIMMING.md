@@ -17,3 +17,17 @@ Some of these parts are removed in the newest model.
 A clearer look without the shell. If using the Bucket Mouse voltage regulator, keep in mind where the extra wire is run. I could add a solder jumper for if the user wants to use that regulator. Maybe I will, but not right now.
 
 <img width="800" height="451" alt="LoCo-Power" src="https://github.com/user-attachments/assets/24babd7a-6c3c-49fa-b70e-bfa1669fb231" />
+
+Extra Optional Tips:
+
+If using an alternative power regulator, I suggest removing the black part once the pins are all soldered. The height of the regulator from the main PCB pushes it into the front shell. I have not removed them and should do that.
+
+<img width="800" height="752" alt="regulatorSdeProfile" src="https://github.com/user-attachments/assets/41413d7c-6160-4488-8297-5bcef300547b" />
+
+These pins collide with the front shell.
+
+<img width="800" height="642" alt="regulatorAngledView" src="https://github.com/user-attachments/assets/d11be8aa-4a27-4910-833b-4ecf8353d1b6" />
+
+I prefer the screen controls to be different from the assignments on the PCB. Swapping A and Select seems more intuitive to me.
+
+<img width="800" height="665" alt="buttonSolderPads" src="https://github.com/user-attachments/assets/9783d457-a03f-41c1-9338-e83a5de39e47" />
